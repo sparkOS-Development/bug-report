@@ -34,7 +34,7 @@ If you’ve found a problem — something broken, unexpected, or missing — ple
 This repo is for bugs only.  
 If you need general help or want to discuss features, visit:
 
-- [Discussions](https://github.com/sparkOS-Development/spark/discussions)  
+- [Discussions](https://github.com/sparkOS-Development/discussions/discussions)  
 
 ---
 
