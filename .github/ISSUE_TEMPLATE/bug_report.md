@@ -32,11 +32,6 @@ Please complete all relevant info:
 - Kernel version (`uname -r`):  
 - GPU & driver (if graphics-related):  
 
-**📱 (If running on a phone/tablet/ARM device)**  
-- Device:  
-- Architecture: arm64 / armhf / other  
-- Boot method: SD card / eMMC / USB  
-
 **🧠 Additional context**  
 Add any other info that might help us debug this (custom config, software running, etc.).
 
